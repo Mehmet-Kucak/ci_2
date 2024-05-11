@@ -1,8 +1,15 @@
 const puppeteer = require('puppeteer');
+const chromium = require('chrome-aws-lambda');
 
 const getProducts = async (req, res) => {
   try {
-    const browser = await puppeteer.launch({ headless: true });
+    const browser = await chromium.puppeteer.launch({
+      args: chromium.args,
+      defaultViewport: chromium.defaultViewport,
+      executablePath: await chromium.executablePath,
+      headless: chromium.headless,
+    });
+
     const page = await browser.newPage();
 
     // Block unnecessary resources
@@ -40,6 +47,7 @@ const getProducts = async (req, res) => {
     await browser.close();
 
     res.status(200).json({ data });
+
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: 'An error occurred while scraping the website.' });
