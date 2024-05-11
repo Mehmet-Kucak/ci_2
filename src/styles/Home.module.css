@@ -6,6 +6,16 @@
   padding: 6rem;
   min-height: 100vh;
 }
+.title {
+  font-size: 4rem;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 1rem;
+  font-family: var(--font-mono);
+  text-shadow: 0 0 20px #aaa;
+
+}
 
 .description {
   display: inherit;
@@ -42,8 +52,22 @@
 .grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(25%, auto));
-  max-width: 100%;
   width: var(--max-width);
+  max-width: 100%;
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.spinner {
+  border: 16px solid #f3f3f3;
+  border-top: 16px solid #3498db;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+  margin: 10px;
 }
 
 .card {
@@ -70,7 +94,6 @@
   font-size: 0.9rem;
   line-height: 1.5;
   max-width: 30ch;
-  text-wrap: balance;
 }
 
 .center {
@@ -98,16 +121,60 @@
 
 .center::before,
 .center::after {
-  content: "";
+  content: '';
   left: 50%;
   position: absolute;
   filter: blur(45px);
   transform: translateZ(0);
 }
 
-.logo {
+.logo,
+.thirteen {
   position: relative;
 }
+
+.thirteen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75px;
+  height: 75px;
+  padding: 25px 10px;
+  margin-left: 16px;
+  transform: translateZ(0);
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  box-shadow: 0px 2px 8px -1px #0000001a;
+}
+
+.thirteen::before,
+.thirteen::after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+}
+
+/* Conic Gradient Animation */
+.thirteen::before {
+  animation: 6s rotate linear infinite;
+  width: 200%;
+  height: 200%;
+  background: var(--tile-border);
+}
+
+/* Inner Square */
+.thirteen::after {
+  inset: 0;
+  padding: 1px;
+  border-radius: var(--border-radius);
+  background: linear-gradient(
+    to bottom right,
+    rgba(var(--tile-start-rgb), 1),
+    rgba(var(--tile-end-rgb), 1)
+  );
+  background-clip: content-box;
+}
+
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
   .card:hover {
@@ -121,6 +188,10 @@
 }
 
 @media (prefers-reduced-motion) {
+  .thirteen::before {
+    animation: none;
+  }
+
   .card:hover span {
     transform: none;
   }
@@ -215,7 +286,8 @@
     filter: invert(1);
   }
 
-  .logo {
+  .logo,
+  .thirteen img {
     filter: invert(1) drop-shadow(0 0 0.3rem #ffffff70);
   }
 }
