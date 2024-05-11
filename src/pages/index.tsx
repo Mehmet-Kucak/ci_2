@@ -9,7 +9,7 @@ import { useState } from 'react';
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
-  const [data, setData] = useState('');
+  const [data, setData] = useState([]);
   const [loading, setLoading] = useState(false);
   const [timeElapsed, setTimeElapsed] = useState(0);
   
@@ -38,7 +38,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>Ci</h1>
         <button className={styles.card} onClick={getProducts}>Get Products</button>
-        {(data != '' || loading) && (loading ? 
+        {(data.length !== 0 || loading) && (loading ?
         <div>
           <p className={styles.code} style={{textAlign:"center"}}>Loading...</p>
           <div className={styles.spinner}></div>
