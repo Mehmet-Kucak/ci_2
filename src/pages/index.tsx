@@ -22,41 +22,59 @@ export default function Home() {
     setLoading(true);
     const startTime = Date.now();
 
-    let region;
-    await axios.get('http://ip-api.com/json/')
-      .then(response => {
-        region = response.data.region;
-      })
-      .catch(error => console.error('Error fetching IP information:', error));
-    
-    console.log(region);
+    const urlParams = new URLSearchParams(window.location.search);
+    let region = urlParams.get('city');
+
+    if(region == null || region == ""){
+      await axios.get('http://ip-api.com/json/')
+        .then(response => {
+          region = response.data.region;
+        })
+        .catch(error => console.error('Error fetching IP information:', error));
+      }
+      console.log(region);
+
     const response = await fetch(`/api/getProducts?input=${region}`);
     let data = await response.json();
-    setData(data.data);
+
     setLoading(false);
+    setData(data.data);
+
     const endTime = Date.now();
     setTimeElapsed((endTime - startTime)/1000);
+
     await getImages();
   }
 
   const getImages = async () => {
+    setImgs([]);
     for (const product of data) {
       let response;
+      if(loading){
+        setImgs([])
+        return;
+      }
       try {
         response = await fetch(`/api/getImgs?input=${product[1]}`);
       } catch {
         setImgs((prevImgs: string[]) => [...prevImgs, "/next.svg"]);
         return;
       }
-      let data = await response?.json(); // Add null check for 'response'
+      let data = await response?.json();
       if (data && data.data) {
         const img = data.data.find((element: string) => element.includes('GeographicalSigns')) || null;
         setImgs((prevImgs: string[]) => [...prevImgs, img != null ? img : "/next.svg"]);
       }
     }
   };
+
+  const searchButton = () => {
+    const newUrl = new URL(window.location.href);
+    newUrl.searchParams.set('city', '09');
+
+    window.location.href = newUrl.toString();
+  }
   
-  // Use useEffect to call your async function
   useEffect(() => {
     getImages();
   }, [data]);
@@ -75,7 +93,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1 className={styles.title}>Ci</h1>
-        <button className={styles.card} style={{backgroundColor:"#fff1", padding:10, margin:10, borderRadius:10}} onClick={getProducts}>Get Products</button>
+        <button className={styles.card} style={{backgroundColor:"#fff1", padding:10, margin:10, borderRadius:10}} onClick={searchButton}>Get Products</button>
         {(data.length !== 0 || loading) && (loading ?
         <div>
           <p className={styles.code} style={{textAlign:"center"}}>Loading...</p>
