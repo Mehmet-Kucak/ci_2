@@ -5,6 +5,8 @@ const getProducts = async (req, res) => {
     const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
 
+    const inputValue = req.query.input;
+
     // Block unnecessary resources
     await page.setRequestInterception(true);
     page.on('request', (req) => {
@@ -18,7 +20,7 @@ const getProducts = async (req, res) => {
     await page.goto('https://ci.turkpatent.gov.tr/veri-tabani', { waitUntil: 'networkidle0' });
 
     await page.waitForSelector('#CityId');
-    await page.select('#CityId', '09');
+    await page.select('#CityId', inputValue);
 
     await page.waitForSelector('#StatusId');
     await page.select('#StatusId', '545');
@@ -29,13 +31,30 @@ const getProducts = async (req, res) => {
     await page.waitForSelector('.loadingoverlay', { hidden: true });
 
     const data = await page.evaluate(() => {
-        const table = document.querySelector('#tablo');
-        const rows = Array.from(table.querySelectorAll('tr'));
-        return rows.map(row => {
-            const columns = row.querySelectorAll('td');
-            return Array.from(columns, column => column.innerText);
-        });
+      const table = document.querySelector('#tablo');
+      const rows = Array.from(table.querySelectorAll('tr'));
+      return rows.flatMap(row => {
+        const columns = row.querySelectorAll('td');
+        return Array.from(columns, column => {
+          const link = column.querySelector('a');
+          return link ? [link.innerText ,link.href] : null;
+        }).filter(Boolean); // filter out null values
+      });
     });
+
+    const scrapedData = [];
+    for (const href of data) {
+      try {
+        await page.goto(href);
+        const imageSrcs = await page.evaluate(() => {
+          const images = Array.from(document.querySelectorAll('img'));
+          return images.map(img => img.src);
+        });
+        scrapedData.push(imageSrcs);
+      } catch (error) {
+        console.error(`Error scraping ${href}:`, error);
+      }
+    }
 
     await browser.close();
 
