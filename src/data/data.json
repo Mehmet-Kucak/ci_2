@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Ege Sofrası",
+    "logo": "https://avatars.githubusercontent.com/u/52265837",
+    "address": "Barış Sokak 9",
+    "gps": [
+      37.846163798621696,
+      27.83957321770879
+    ],
+    "closingTime": "11:30",
+    "reviews": [
+      {
+        "title": "Impedit sint laborum quae minima praesentium architecto earum inventore blanditiis.",
+        "body": "Distinctio dolorum perferendis repellat assumenda at magnam. Asperiores atque maxime. Laborum voluptatem ducimus fugiat iusto eius quo vel quam adipisci.\nHarum laborum illum suscipit aut reiciendis eaque. Unde nostrum dignissimos itaque eveniet dolorem. Numquam quae veniam accusantium doloribus recusandae sed.",
+        "rating": 1,
+        "date": "20.12.2023",
+        "reviewer": {
+          "name": "Amelya Akbulut",
+          "avatar": "https://avatars.githubusercontent.com/u/52265837"
+        }
+      },
+      {
+        "title": "Cumque saepe harum.",
+        "body": "Officiis culpa a voluptas ad qui placeat esse. Reprehenderit suscipit reiciendis laborum minima adipisci quidem itaque vero. Vel earum minima itaque aspernatur ratione ipsa porro possimus dicta.\nDignissimos exercitationem accusantium quod quas sint tempore. Assumenda vero fugit blanditiis atque reiciendis error a qui. Modi aliquid numquam ipsa dolor.",
+        "rating": 5,
+        "date": "11.09.2023",
+        "reviewer": {
+          "name": "Fahrünissa Evliyaoğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/51244966"
+        }
+      },
+      {
+        "title": "Saepe accusamus nisi illo labore.",
+        "body": "Esse dicta sunt voluptatem suscipit tempora dignissimos dignissimos similique aliquam. Accusamus assumenda ipsum facilis. Fugit repellendus earum animi laboriosam laboriosam exercitationem dolore a totam.\nQuos magnam fugit pariatur. Quaerat ab rem voluptatem. Delectus nam nostrum doloremque provident quam inventore nemo.",
+        "rating": 2,
+        "date": "02.03.2024",
+        "reviewer": {
+          "name": "Altın Dalkıran",
+          "avatar": "https://avatars.githubusercontent.com/u/25270779"
+        }
+      },
+      {
+        "title": "Quam velit quidem quisquam similique inventore.",
+        "body": "Laudantium nemo non aliquam nulla. Veritatis earum itaque tempore fugit aperiam suscipit. Excepturi eos expedita cumque eveniet quaerat quas culpa.\nAliquid debitis harum quam perspiciatis ut ullam perspiciatis sit consequuntur. Tenetur et quam veritatis quisquam dolore. Molestias excepturi sit.",
+        "rating": 3,
+        "date": "27.10.2023",
+        "reviewer": {
+          "name": "Aşkın Sözeri",
+          "avatar": "https://avatars.githubusercontent.com/u/15434820"
+        }
+      },
+      {
+        "title": "Magnam incidunt dignissimos provident laboriosam in repellat esse dolore animi.",
+        "body": "Enim doloribus assumenda soluta aliquam. Ipsa harum molestias eligendi. Deleniti animi veritatis necessitatibus fuga unde voluptas.\nConsequatur id est eius. Aspernatur perspiciatis laboriosam optio nesciunt delectus cupiditate iure quis minima. Deleniti eos illo eligendi possimus assumenda praesentium dicta.",
+        "rating": 4,
+        "date": "10.12.2023",
+        "reviewer": {
+          "name": "Hande Akaydın",
+          "avatar": "https://avatars.githubusercontent.com/u/83340825"
+        }
+      },
+      {
+        "title": "Necessitatibus nisi labore odit quibusdam.",
+        "body": "Voluptatibus architecto odit. Optio corporis delectus eum molestias molestiae repellat ab non modi. Neque assumenda amet ducimus dolor ipsum veritatis.\nOfficia fugit illum quod. Ab unde quas modi blanditiis cupiditate deserunt soluta ipsam omnis. Tenetur cumque optio.",
+        "rating": 3,
+        "date": "10.04.2024",
+        "reviewer": {
+          "name": "Dr. Fatma Sözeri",
+          "avatar": "https://avatars.githubusercontent.com/u/76586939"
+        }
+      },
+      {
+        "title": "Cupiditate sed ipsam aliquam voluptatem sapiente.",
+        "body": "Voluptatibus recusandae officia necessitatibus ab ipsum recusandae voluptatem quibusdam. Dolores dolor ducimus delectus veritatis beatae unde doloremque. Maxime quam fuga molestias.\nPerspiciatis omnis aliquam est amet provident itaque sunt. Vitae commodi velit beatae. Beatae nemo consectetur laboriosam esse magnam doloremque at repudiandae.",
+        "rating": 5,
+        "date": "08.09.2023",
+        "reviewer": {
+          "name": "Fikriye Koç",
+          "avatar": "https://avatars.githubusercontent.com/u/25012814"
+        }
+      },
+      {
+        "title": "Repellat laudantium laudantium quasi repudiandae amet laudantium.",
+        "body": "Voluptatem alias fugit quasi quas possimus ut. Explicabo repellendus inventore eum. Aliquid quas neque est quisquam corrupti nostrum nostrum excepturi.\nEx numquam voluptates temporibus modi aperiam rerum omnis doloribus. Neque laborum veritatis doloribus adipisci quam officia fuga. Quibusdam accusamus labore.",
+        "rating": 4,
+        "date": "07.02.2024",
+        "reviewer": {
+          "name": "Itır Kılıççı",
+          "avatar": "https://avatars.githubusercontent.com/u/61472929"
+        }
+      },
+      {
+        "title": "Incidunt aliquid veniam enim facere quasi quam doloribus voluptas vero.",
+        "body": "Quibusdam consectetur necessitatibus quibusdam ab. Illum dolores similique amet error numquam. Laboriosam numquam eos quis adipisci.\nUt similique ducimus molestiae minima ab consequatur. Officiis rem distinctio in tempora quibusdam ipsam. Dolorem suscipit similique sapiente harum ab illum possimus beatae.",
+        "rating": 3,
+        "date": "28.01.2024",
+        "reviewer": {
+          "name": "İdris Ozansoy",
+          "avatar": "https://avatars.githubusercontent.com/u/96628459"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Aydın Lezzet Durağı",
+    "logo": "https://avatars.githubusercontent.com/u/4089837",
+    "address": "Sevgi Sokak 38c",
+    "gps": [
+      37.84317305346923,
+      27.83620505087572
+    ],
+    "closingTime": "11:30",
+    "reviews": [
+      {
+        "title": "Commodi assumenda enim nihil nulla ad consectetur consequatur quisquam.",
+        "body": "Temporibus odio vitae debitis fuga molestiae quos. Ipsam quasi cum id reiciendis reprehenderit hic. Fugiat accusamus maxime itaque adipisci ullam nihil explicabo quaerat.\nIpsum quisquam minima quis tempora accusantium quisquam consequuntur assumenda alias. Earum ad voluptatibus illum mollitia iste omnis quia. Deserunt eos ipsam laborum ullam deserunt magni excepturi.",
+        "rating": 3,
+        "date": "22.09.2023",
+        "reviewer": {
+          "name": "Perver Bolatlı",
+          "avatar": "https://avatars.githubusercontent.com/u/53020486"
+        }
+      },
+      {
+        "title": "Nesciunt accusantium aliquid.",
+        "body": "Necessitatibus reiciendis ipsa. Sunt doloribus qui rem earum accusantium provident eaque vero rem. Expedita neque nisi fugit eveniet incidunt eaque eos voluptate tempore.\nQuos ullam vitae possimus delectus aspernatur rem sequi. Non officiis aliquam magnam deserunt modi nihil deserunt placeat. Excepturi necessitatibus totam molestias quisquam mollitia vero.",
+        "rating": 1,
+        "date": "16.03.2024",
+        "reviewer": {
+          "name": "Dilay Mertoğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/89937139"
+        }
+      },
+      {
+        "title": "Nulla hic voluptatem vero.",
+        "body": "Accusantium nobis qui facere. Magni consectetur eveniet praesentium tenetur. Itaque ea est ab eos asperiores laborum eum reprehenderit.\nDolores voluptates quod voluptate. Ipsum porro repellendus voluptatem possimus cumque autem in. Iste unde incidunt facere aperiam ipsam voluptates pariatur.",
+        "rating": 2,
+        "date": "30.08.2023",
+        "reviewer": {
+          "name": "Berkay Barbarosoğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/6218046"
+        }
+      },
+      {
+        "title": "Temporibus necessitatibus eos placeat facere ratione vitae.",
+        "body": "Excepturi sequi provident. Dolorum adipisci quibusdam harum cumque sit id eum. Eligendi aspernatur numquam rem itaque.\nNisi quis optio voluptatibus illum. Veritatis consequatur dolores dignissimos sunt quaerat minima. Corrupti molestiae debitis praesentium rem placeat harum corporis adipisci placeat.",
+        "rating": 1,
+        "date": "13.07.2023",
+        "reviewer": {
+          "name": "İrem Kutlay",
+          "avatar": "https://avatars.githubusercontent.com/u/83328657"
+        }
+      },
+      {
+        "title": "Inventore tenetur consectetur praesentium.",
+        "body": "In possimus distinctio sit laudantium iste quos. Doloribus ipsam ea eum ipsum deleniti nobis hic placeat. Quod similique cumque maxime explicabo eveniet illo non harum.\nProvident voluptatem voluptatibus voluptates animi vero consequatur qui nulla alias. Aspernatur et nihil labore nam maxime error rem vero. Iure tempora suscipit rem numquam saepe repudiandae.",
+        "rating": 1,
+        "date": "31.10.2023",
+        "reviewer": {
+          "name": "Süheyl Akışık",
+          "avatar": "https://avatars.githubusercontent.com/u/18782136"
+        }
+      },
+      {
+        "title": "Voluptatum ipsam libero mollitia.",
+        "body": "Provident sapiente vero nulla ex doloribus minima. Sunt expedita ab quisquam debitis aliquid. Rerum laboriosam sapiente ducimus nam et velit suscipit molestiae velit.\nAnimi blanditiis distinctio aspernatur error. Quo hic occaecati illo voluptate iste provident vel. Reprehenderit reiciendis odit beatae velit optio quo doloremque repellat ipsam.",
+        "rating": 1,
+        "date": "13.06.2023",
+        "reviewer": {
+          "name": "Dr. Nehir Dalkıran",
+          "avatar": "https://avatars.githubusercontent.com/u/52776154"
+        }
+      },
+      {
+        "title": "Eos et praesentium atque magnam tempora dolorum nisi possimus voluptates.",
+        "body": "Ea dolorum dolor dolores facilis. Perferendis cumque in adipisci debitis nostrum illo. Saepe ipsa dolores mollitia autem vitae id perferendis quidem ab.\nEarum perspiciatis quod beatae itaque sequi ullam. Incidunt repellat odio provident architecto suscipit aperiam iusto consequatur nisi. Recusandae cumque at sequi consequuntur earum iure earum.",
+        "rating": 2,
+        "date": "22.11.2023",
+        "reviewer": {
+          "name": "Prof. Dr. Nurgül Tunaboylu",
+          "avatar": "https://avatars.githubusercontent.com/u/6277404"
+        }
+      },
+      {
+        "title": "Similique maiores nostrum.",
+        "body": "Odit dicta modi fugit facere blanditiis perferendis. Quod quisquam ea molestias veritatis nobis facilis rem. Quia quo facilis deleniti numquam voluptatibus quod aperiam.\nTotam libero illo necessitatibus quod eligendi ea. Ipsum omnis mollitia aut ducimus iusto tempore magni ipsum. Assumenda et qui tempore vero sint possimus eligendi.",
+        "rating": 4,
+        "date": "15.01.2024",
+        "reviewer": {
+          "name": "Köksal Örge",
+          "avatar": "https://avatars.githubusercontent.com/u/96100529"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Menderes Mutfağı",
+    "logo": "https://avatars.githubusercontent.com/u/99630904",
+    "address": "Bahçe Sokak 30c",
+    "gps": [
+      37.84931298904897,
+      27.836595169405655
+    ],
+    "closingTime": "11:30",
+    "reviews": [
+      {
+        "title": "Nisi excepturi dolor laudantium eaque iure ut.",
+        "body": "Iste vero dignissimos voluptatibus. Ducimus a accusamus iusto sunt. Dolores error asperiores modi recusandae cupiditate ea quam.\nOptio doloremque ratione temporibus minus tempora ipsum. Eius esse omnis laborum sit minus cupiditate expedita iure. Fugit consequuntur amet fugiat facere dolorum praesentium maxime sunt voluptatibus.",
+        "rating": 2,
+        "date": "06.12.2023",
+        "reviewer": {
+          "name": "Bay Gönenç Öymen",
+          "avatar": "https://avatars.githubusercontent.com/u/48325068"
+        }
+      },
+      {
+        "title": "Quos hic est cumque aspernatur architecto consectetur enim a.",
+        "body": "Id modi unde tempore magnam iure quisquam. Minima repellendus exercitationem laudantium nemo voluptatem culpa maiores corrupti. Voluptas molestias quidem aut aliquam unde quibusdam esse.\nIste hic illum amet quaerat occaecati sed voluptates dolorem. Neque fuga laboriosam incidunt nulla necessitatibus. Hic deleniti ratione nostrum repellendus beatae nostrum expedita maiores.",
+        "rating": 5,
+        "date": "21.10.2023",
+        "reviewer": {
+          "name": "Dilara Kıraç ",
+          "avatar": "https://avatars.githubusercontent.com/u/63424773"
+        }
+      },
+      {
+        "title": "Corrupti voluptatem dolor non rem corrupti.",
+        "body": "Numquam veniam doloribus. Ipsam nostrum corporis esse quae fugiat nesciunt praesentium aliquam voluptatibus. Enim libero veritatis quibusdam rerum.\nOmnis recusandae veniam. Voluptatum molestias velit voluptatibus illum. Praesentium rerum facilis porro rerum suscipit blanditiis exercitationem.",
+        "rating": 2,
+        "date": "01.06.2023",
+        "reviewer": {
+          "name": "Behrem Akman",
+          "avatar": "https://avatars.githubusercontent.com/u/65302752"
+        }
+      },
+      {
+        "title": "Dicta aliquam architecto aperiam vero ducimus maiores commodi maxime.",
+        "body": "Reprehenderit non recusandae amet. Corporis iste quod. Eveniet deleniti mollitia placeat.\nSimilique dolorum soluta nostrum harum architecto repellat. Aspernatur eum maiores provident atque eius culpa suscipit hic. Molestias dolorum occaecati nisi at nihil quas.",
+        "rating": 4,
+        "date": "08.03.2024",
+        "reviewer": {
+          "name": "Kadem Taşlı",
+          "avatar": "https://avatars.githubusercontent.com/u/6358095"
+        }
+      },
+      {
+        "title": "Ab amet excepturi laborum autem quasi aspernatur a magnam.",
+        "body": "Aliquid ducimus laboriosam facere reiciendis modi sint atque fugit. Impedit sequi dolore ullam corporis laboriosam. Aliquam unde error.\nExcepturi voluptatum facere id. Quas aut pariatur odio sed tempora enim possimus. Suscipit reiciendis dicta maiores.",
+        "rating": 4,
+        "date": "25.07.2023",
+        "reviewer": {
+          "name": "Güniz Sarıoğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/12893226"
+        }
+      },
+      {
+        "title": "Illo soluta iure.",
+        "body": "Suscipit facere saepe explicabo laudantium dignissimos eius. Sequi illo dolores eaque. Voluptatibus quos ipsam ipsum.\nOptio ipsam culpa perferendis voluptate in. Numquam dignissimos quibusdam explicabo quae. Repellendus in vero facere aut aperiam sapiente consequuntur.",
+        "rating": 5,
+        "date": "10.09.2023",
+        "reviewer": {
+          "name": "Sıdkı Özkök ",
+          "avatar": "https://avatars.githubusercontent.com/u/56605175"
+        }
+      },
+      {
+        "title": "Non sed eveniet a cum quod beatae.",
+        "body": "Fuga dolorem expedita laudantium saepe dolorum eum commodi necessitatibus. Eos a assumenda laboriosam atque. Maiores quidem quae.\nFugiat consequuntur repudiandae voluptas dolorem. In quisquam alias repellat. Quas magnam consectetur aliquid accusantium ut totam.",
+        "rating": 3,
+        "date": "11.05.2024",
+        "reviewer": {
+          "name": "Mir Tuğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/34516534"
+        }
+      },
+      {
+        "title": "Similique dolorum aliquid vero facilis harum nam.",
+        "body": "Aspernatur reiciendis soluta possimus. Sapiente dignissimos error possimus omnis unde eum sed. Sequi nihil itaque recusandae ratione voluptatibus minima sequi deleniti impedit.\nCupiditate a nisi autem quae consequuntur animi iste aspernatur dolores. Vel aspernatur quos temporibus laudantium delectus accusamus nemo. Ut praesentium aliquam quidem sequi aliquid architecto aliquid.",
+        "rating": 5,
+        "date": "24.03.2024",
+        "reviewer": {
+          "name": "Bay Hammâd Türkdoğan",
+          "avatar": "https://avatars.githubusercontent.com/u/79216893"
+        }
+      },
+      {
+        "title": "Odio explicabo aliquid animi.",
+        "body": "Voluptatem magnam ad unde neque impedit adipisci porro perferendis. Error numquam omnis quasi nesciunt animi quod ipsam voluptatum eius. Fugit suscipit molestias doloribus voluptatum nisi.\nDoloremque explicabo voluptas expedita possimus exercitationem. Eum error nemo quo cumque eligendi. Quaerat iusto quae esse dolorem odio assumenda.",
+        "rating": 1,
+        "date": "15.04.2024",
+        "reviewer": {
+          "name": "Kerem Okumuş",
+          "avatar": "https://avatars.githubusercontent.com/u/85865181"
+        }
+      },
+      {
+        "title": "Alias amet magni nobis vel sint corrupti eveniet iure laborum.",
+        "body": "Deserunt nulla distinctio similique ipsum harum. Nobis qui animi earum similique deleniti praesentium earum eos dolorem. Facilis incidunt officia impedit.\nCorrupti ducimus explicabo. Atque maiores repellat inventore. Soluta incidunt perferendis alias voluptate nostrum laudantium maiores minus.",
+        "rating": 4,
+        "date": "09.01.2024",
+        "reviewer": {
+          "name": "Gülriz Eliçin",
+          "avatar": "https://avatars.githubusercontent.com/u/96999816"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Zeytin Bahçesi Restoran",
+    "logo": "https://avatars.githubusercontent.com/u/23576433",
+    "address": "İbn-i Sina Sokak 96c",
+    "gps": [
+      37.84933650844358,
+      27.836107759923152
+    ],
+    "closingTime": "11:30",
+    "reviews": [
+      {
+        "title": "Deleniti atque quam.",
+        "body": "Odio omnis similique perspiciatis cupiditate eveniet. Aliquam dolorem architecto rem nesciunt laborum nisi. Eligendi reprehenderit accusamus beatae soluta inventore voluptatum beatae.\nVoluptatem nesciunt repellendus numquam. Cumque labore facilis rerum nam aperiam saepe. Non laborum explicabo quia distinctio quaerat iste sed molestiae.",
+        "rating": 1,
+        "date": "22.08.2023",
+        "reviewer": {
+          "name": "Salih Özgörkey",
+          "avatar": "https://avatars.githubusercontent.com/u/95932853"
+        }
+      },
+      {
+        "title": "Hic numquam animi eveniet.",
+        "body": "Ex maxime velit praesentium illum at consequuntur. Quisquam cupiditate in corrupti distinctio ipsum perspiciatis. Reiciendis asperiores nihil deserunt fuga vero facilis unde quasi.\nIllum perferendis quo. Recusandae ab aperiam voluptas cupiditate earum ut sapiente voluptas. Error fugiat sequi excepturi porro officia.",
+        "rating": 5,
+        "date": "01.10.2023",
+        "reviewer": {
+          "name": "Anita Tütüncü",
+          "avatar": "https://avatars.githubusercontent.com/u/62016943"
+        }
+      },
+      {
+        "title": "Perferendis molestiae eum blanditiis id.",
+        "body": "Optio reiciendis aliquid illo inventore similique. Soluta officia saepe odio voluptates optio a inventore. Ea quisquam quisquam alias at optio harum delectus.\nRem sint iste itaque id blanditiis. Facilis nesciunt itaque voluptas error quas mollitia. Eligendi dolor deleniti placeat cumque sapiente libero.",
+        "rating": 4,
+        "date": "06.04.2024",
+        "reviewer": {
+          "name": "Cahid Okumuş",
+          "avatar": "https://avatars.githubusercontent.com/u/50776552"
+        }
+      },
+      {
+        "title": "Rem odio aliquam reiciendis dicta dolores.",
+        "body": "Ab nostrum ducimus quam facilis. Ipsa quae praesentium soluta. Consequatur dignissimos quae soluta culpa repellat beatae harum tempore dolorum.\nIpsa perferendis dicta repellendus in. Corrupti quae placeat blanditiis eos cupiditate ullam rem. Dolorem omnis natus cupiditate occaecati dolores illum excepturi.",
+        "rating": 2,
+        "date": "18.06.2023",
+        "reviewer": {
+          "name": "İlknur Abadan",
+          "avatar": "https://avatars.githubusercontent.com/u/3625984"
+        }
+      },
+      {
+        "title": "Quidem id rerum aliquid voluptates.",
+        "body": "Expedita aliquam dignissimos ullam eligendi magnam assumenda iusto. Explicabo voluptas recusandae commodi esse est fugit amet at. Possimus quas temporibus laudantium voluptatem ratione rerum.\nRecusandae sapiente est. Minima quia minus soluta inventore voluptatem et vitae eum. Eos alias error cumque.",
+        "rating": 1,
+        "date": "22.12.2023",
+        "reviewer": {
+          "name": "Buğra Sezek",
+          "avatar": "https://avatars.githubusercontent.com/u/10811733"
+        }
+      },
+      {
+        "title": "Consectetur occaecati consequatur commodi praesentium repellendus distinctio est est.",
+        "body": "Reiciendis labore quisquam voluptatibus asperiores sint consequatur nemo. Iure doloremque quia sit. At totam natus eum dicta.\nQuidem modi iusto a similique deserunt nam. Numquam sequi ab reiciendis dolores. Temporibus quo ipsum voluptas ipsa labore quis beatae iusto.",
+        "rating": 3,
+        "date": "12.12.2023",
+        "reviewer": {
+          "name": "Berçin Babaoğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/66240643"
+        }
+      },
+      {
+        "title": "Molestiae perspiciatis quas.",
+        "body": "Nesciunt fuga quo tempora voluptates minima voluptatibus adipisci minima. Culpa quod dolore. Reprehenderit non accusamus.\nEa labore at voluptatibus ducimus mollitia quos nam rerum inventore. Aliquam ullam placeat reiciendis. Voluptatibus repudiandae placeat dolorem in molestiae unde eaque dolorum.",
+        "rating": 3,
+        "date": "20.08.2023",
+        "reviewer": {
+          "name": "Elif Kunt",
+          "avatar": "https://avatars.githubusercontent.com/u/25760249"
+        }
+      },
+      {
+        "title": "Quod molestiae rerum harum.",
+        "body": "Facere commodi fugit incidunt aliquam dignissimos mollitia excepturi ducimus. Nostrum id laborum consequatur veritatis voluptatem officia. Porro ea odio nisi perferendis aspernatur consectetur laudantium.\nQuod in veritatis temporibus. Tempora illo inventore asperiores impedit. Mollitia sint ipsa.",
+        "rating": 1,
+        "date": "15.05.2024",
+        "reviewer": {
+          "name": "Erhan Karabulut",
+          "avatar": "https://avatars.githubusercontent.com/u/51868140"
+        }
+      },
+      {
+        "title": "Quisquam dolorum ut quae possimus repellat.",
+        "body": "Aperiam modi facilis corporis harum. Unde neque maxime nulla corrupti reprehenderit. Ad id unde totam perferendis.\nLibero quidem blanditiis rem rerum mollitia accusantium. Dolorem eligendi exercitationem non vel cupiditate molestiae tempore. Qui alias pariatur.",
+        "rating": 3,
+        "date": "18.10.2023",
+        "reviewer": {
+          "name": "Anıl Koyuncu",
+          "avatar": "https://avatars.githubusercontent.com/u/24863675"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tarihi Taş Fırın",
+    "logo": "https://avatars.githubusercontent.com/u/11229238",
+    "address": "Saygılı Sokak 49c",
+    "gps": [
+      37.84339799163511,
+      27.83638116545012
+    ],
+    "closingTime": "11:30",
+    "reviews": [
+      {
+        "title": "Excepturi eos quibusdam ipsa.",
+        "body": "Delectus voluptate placeat at magnam deleniti inventore dolores recusandae illum. Laudantium officiis repudiandae molestias perferendis at officiis quos iusto. Voluptate velit reiciendis vero minus assumenda.\nMollitia esse quisquam eveniet fugit praesentium. Porro eveniet corrupti ad accusamus harum consequuntur. Numquam harum consequuntur deleniti quasi rerum.",
+        "rating": 5,
+        "date": "23.10.2023",
+        "reviewer": {
+          "name": "Kalender Hakyemez",
+          "avatar": "https://avatars.githubusercontent.com/u/38251467"
+        }
+      },
+      {
+        "title": "Quas nesciunt a ipsa fuga.",
+        "body": "Id voluptas vero maxime ad ab excepturi. Ullam tempora libero perspiciatis repellat repellat. Incidunt consequatur magni fugit repudiandae et eligendi.\nNeque temporibus commodi reprehenderit. Dolorum qui et quis expedita non tempore iste quidem. Doloribus minus doloribus ea occaecati ducimus.",
+        "rating": 3,
+        "date": "09.06.2023",
+        "reviewer": {
+          "name": "Erberk Kuzucu",
+          "avatar": "https://avatars.githubusercontent.com/u/15706851"
+        }
+      },
+      {
+        "title": "Voluptatum velit ex minus.",
+        "body": "Aliquam neque error dicta eius unde vel rerum nulla. Maiores nostrum consequuntur facilis voluptas quia. Non error voluptas saepe magni amet expedita.\nIpsa cupiditate alias vel corporis. Nobis recusandae architecto provident quae eos. Sequi adipisci dolorem sint cum illo.",
+        "rating": 3,
+        "date": "09.05.2024",
+        "reviewer": {
+          "name": "Türkan Durak ",
+          "avatar": "https://avatars.githubusercontent.com/u/22711966"
+        }
+      },
+      {
+        "title": "Odit cupiditate provident consectetur occaecati delectus nesciunt.",
+        "body": "Distinctio cumque id dicta inventore placeat ex. Enim voluptates illo ipsum. Tenetur provident autem autem dolorum libero delectus maiores maxime hic.\nPraesentium consectetur praesentium odio. Voluptate exercitationem laboriosam blanditiis nobis. Accusamus laudantium molestias tempora occaecati debitis iure quasi ipsum.",
+        "rating": 1,
+        "date": "24.01.2024",
+        "reviewer": {
+          "name": "Semih Duygulu",
+          "avatar": "https://avatars.githubusercontent.com/u/64698743"
+        }
+      },
+      {
+        "title": "Aspernatur laboriosam alias dolor quasi perspiciatis nobis.",
+        "body": "Exercitationem ab sint atque eveniet dicta dolore architecto. Deserunt dolore consectetur accusantium. Cumque inventore cum omnis earum asperiores autem vel neque.\nPlaceat et neque accusamus aspernatur eius debitis. Eum autem ullam et repellendus veniam at maxime qui eius. Hic deleniti quidem praesentium maiores fuga esse facilis aliquam.",
+        "rating": 4,
+        "date": "28.06.2023",
+        "reviewer": {
+          "name": "Arslan Demirel",
+          "avatar": "https://avatars.githubusercontent.com/u/68628393"
+        }
+      },
+      {
+        "title": "Ad exercitationem dignissimos ipsum dolore veniam inventore minima reiciendis necessitatibus.",
+        "body": "Sunt recusandae magni ad laborum similique numquam voluptates doloribus assumenda. Voluptatem assumenda quis placeat atque incidunt. Sint hic delectus.\nQuas ex adipisci laudantium voluptates culpa nisi voluptatibus cumque quo. Beatae exercitationem accusantium vero dolore odio neque a. Delectus ducimus reiciendis nostrum qui dignissimos cum unde nemo minus.",
+        "rating": 5,
+        "date": "19.12.2023",
+        "reviewer": {
+          "name": "Serpil Durak ",
+          "avatar": "https://avatars.githubusercontent.com/u/90668144"
+        }
+      },
+      {
+        "title": "Deserunt quisquam repellendus.",
+        "body": "Velit accusantium ipsum quod vitae. Sed iusto blanditiis ducimus aperiam accusantium dolorum. Eius officia nesciunt facere nostrum nemo reprehenderit.\nIste sapiente quaerat commodi deserunt reiciendis fugiat fuga vel eveniet. Officiis mollitia recusandae doloribus porro suscipit voluptates pariatur. Rem atque sapiente nesciunt deserunt.",
+        "rating": 3,
+        "date": "11.08.2023",
+        "reviewer": {
+          "name": "Tülin Adıvar",
+          "avatar": "https://avatars.githubusercontent.com/u/28205740"
+        }
+      },
+      {
+        "title": "Debitis doloribus omnis cumque necessitatibus alias neque velit velit.",
+        "body": "A quidem consectetur tenetur voluptate nesciunt ut tempora. Laboriosam iure et facilis eaque quas est nemo expedita. Quis aliquam voluptatibus minima.\nFacere earum sunt quasi nam. Similique quis aspernatur assumenda voluptas dolore corporis quasi commodi labore. Officia est quae incidunt sint numquam consectetur qui.",
+        "rating": 5,
+        "date": "30.05.2023",
+        "reviewer": {
+          "name": "İmge Ayverdi",
+          "avatar": "https://avatars.githubusercontent.com/u/36047762"
+        }
+      },
+      {
+        "title": "Perspiciatis beatae pariatur saepe dignissimos cumque dolorum.",
+        "body": "Unde dolor earum eos unde provident ducimus atque. Eveniet odit quaerat temporibus eum itaque voluptate eos. Dolorum molestias aliquid repudiandae velit porro praesentium eius.\nCommodi maiores adipisci quae sit similique illo similique harum quos. Placeat voluptate error. Enim sed itaque voluptatum.",
+        "rating": 2,
+        "date": "27.05.2023",
+        "reviewer": {
+          "name": "Zehra Çetin",
+          "avatar": "https://avatars.githubusercontent.com/u/41779338"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Çamlık Ocakbaşı",
+    "logo": "https://avatars.githubusercontent.com/u/52815914",
+    "address": "Kaldırım Sokak 62c",
+    "gps": [
+      37.83937277180018,
+      27.835108204525568
+    ],
+    "closingTime": "11:30",
+    "reviews": [
+      {
+        "title": "Perspiciatis hic inventore.",
+        "body": "Id eaque recusandae neque hic impedit iste fugit voluptas. Quos quas unde ut. Porro impedit excepturi.\nEst incidunt reiciendis natus. Repudiandae repellat dignissimos vitae repudiandae possimus rerum magnam sunt. Eum eius quas maxime officiis necessitatibus delectus natus occaecati.",
+        "rating": 1,
+        "date": "28.04.2024",
+        "reviewer": {
+          "name": "Maksud Türkdoğan",
+          "avatar": "https://avatars.githubusercontent.com/u/82615929"
+        }
+      },
+      {
+        "title": "Consequuntur quo saepe velit molestias.",
+        "body": "Facere sit velit fugiat. Praesentium sint sit ipsam similique. Tempora adipisci doloremque expedita voluptas harum velit nostrum.\nExplicabo totam harum a. Quam alias officiis tempora iste. Quam molestiae provident qui.",
+        "rating": 4,
+        "date": "11.06.2023",
+        "reviewer": {
+          "name": "Zâhit Avan",
+          "avatar": "https://avatars.githubusercontent.com/u/90317316"
+        }
+      },
+      {
+        "title": "Facere omnis repudiandae facilis.",
+        "body": "Blanditiis distinctio iusto harum excepturi. Autem deserunt totam nostrum tenetur velit incidunt. Cupiditate vero earum doloribus rem.\nVelit eaque ea eaque porro quae debitis. Labore delectus sapiente. Necessitatibus a quidem earum error.",
+        "rating": 1,
+        "date": "21.08.2023",
+        "reviewer": {
+          "name": "Fehime Akbulut",
+          "avatar": "https://avatars.githubusercontent.com/u/92918332"
+        }
+      },
+      {
+        "title": "Quo dolor expedita error deserunt ab.",
+        "body": "Nihil aspernatur dolorem eos vero molestias quae. Nobis quod earum. Minus eveniet commodi culpa ex atque nulla minus.\nSuscipit nihil non molestiae odio aliquid. Dicta nostrum voluptas. Quo nemo esse est sit distinctio vero necessitatibus ullam.",
+        "rating": 3,
+        "date": "30.11.2023",
+        "reviewer": {
+          "name": "Güldem Türkdoğan",
+          "avatar": "https://avatars.githubusercontent.com/u/99398704"
+        }
+      },
+      {
+        "title": "Fugiat reprehenderit ea voluptas eos soluta quam ipsa.",
+        "body": "Dicta ipsum enim quas quasi et aut occaecati. Atque architecto nobis soluta magni eveniet. Velit velit temporibus consequuntur voluptatum deleniti magnam accusamus quisquam.\nCorporis corporis libero eum. Corporis tempore quo deleniti dolorum id aut labore. Ab dolorum hic quae neque omnis ex.",
+        "rating": 2,
+        "date": "11.12.2023",
+        "reviewer": {
+          "name": "Erel Hamzaoğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/70899133"
+        }
+      },
+      {
+        "title": "Eaque numquam labore reprehenderit debitis sed quia porro ab.",
+        "body": "Porro voluptatem consequuntur repellat beatae omnis voluptas quidem. Dolor facilis ad. Laudantium doloremque assumenda perferendis delectus dolor temporibus perspiciatis totam.\nPlaceat sit facilis aliquam error unde. Repellat inventore error voluptatum officia alias facilis aliquid id minus. Fugit odit eaque eius quidem tempore.",
+        "rating": 3,
+        "date": "09.03.2024",
+        "reviewer": {
+          "name": "Cezmi Ayaydın",
+          "avatar": "https://avatars.githubusercontent.com/u/48072189"
+        }
+      },
+      {
+        "title": "Deserunt quas voluptatum eaque soluta quisquam velit commodi excepturi.",
+        "body": "Similique eum a illo aspernatur consequuntur. Alias impedit voluptatem repellat. Dolor similique culpa exercitationem maiores natus.\nCumque minus repudiandae molestiae. Sint facere sequi voluptas. Magnam cumque suscipit corporis reprehenderit cupiditate vero dolorum unde voluptatum.",
+        "rating": 2,
+        "date": "08.07.2023",
+        "reviewer": {
+          "name": "Demet Ilıcalı",
+          "avatar": "https://avatars.githubusercontent.com/u/23718499"
+        }
+      },
+      {
+        "title": "Autem impedit totam delectus at deleniti aperiam placeat sed quo.",
+        "body": "Eos qui inventore. Fuga et molestiae eveniet incidunt. Molestiae autem id autem ipsa.\nAliquam iusto odit provident voluptatem. Consequatur repellat quidem quidem eaque itaque adipisci quod aperiam. Repudiandae qui delectus quos quisquam aliquid nisi.",
+        "rating": 3,
+        "date": "20.03.2024",
+        "reviewer": {
+          "name": "Ulviye Kaplangı",
+          "avatar": "https://avatars.githubusercontent.com/u/89763464"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Yeşil Vadi Lokantası",
+    "logo": "https://avatars.githubusercontent.com/u/14882923",
+    "address": "Bahçe Sokak 41c",
+    "gps": [
+      37.836691412372254,
+      27.841030219965432
+    ],
+    "closingTime": "11:30",
+    "reviews": [
+      {
+        "title": "Veniam quidem saepe quidem repellat culpa voluptas dolore inventore ipsam.",
+        "body": "Enim repellat nulla. Exercitationem velit earum repellendus. Voluptates officia sequi nulla fugiat fugiat voluptate ratione.\nQuis sequi sit eligendi. Nostrum repellat aliquam delectus. Natus occaecati provident quod cumque eveniet facilis accusantium.",
+        "rating": 5,
+        "date": "11.02.2024",
+        "reviewer": {
+          "name": "Tınas Koçoğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/5190975"
+        }
+      },
+      {
+        "title": "Aliquam magnam expedita maiores voluptate dolorem quo illo eveniet.",
+        "body": "Doloremque repellendus quas. Sed praesentium excepturi fuga corrupti placeat. Dolorum nemo culpa consequuntur.\nAlias odio laboriosam laudantium esse occaecati praesentium qui. Officiis ducimus magnam veniam ad asperiores minus. Ratione laboriosam architecto fuga facere quos voluptatibus totam quas.",
+        "rating": 4,
+        "date": "21.11.2023",
+        "reviewer": {
+          "name": "Şeyban Bademci",
+          "avatar": "https://avatars.githubusercontent.com/u/12824724"
+        }
+      },
+      {
+        "title": "Repudiandae aliquam non hic accusantium blanditiis ipsam dolorum distinctio deleniti.",
+        "body": "Illo ducimus architecto unde laborum distinctio esse debitis molestias. Alias distinctio officia fugit. Cum consequuntur sapiente eaque ipsam illum.\nAliquam maxime aliquam quasi corporis. Deserunt alias quae ducimus corrupti vero placeat asperiores dolor libero. Cupiditate optio exercitationem consectetur iusto molestias sapiente maiores.",
+        "rating": 3,
+        "date": "01.08.2023",
+        "reviewer": {
+          "name": "Cevat Köylüoğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/32037932"
+        }
+      },
+      {
+        "title": "Rem quam vitae fuga similique perspiciatis modi.",
+        "body": "Vitae deleniti nostrum. Est nulla quidem. Ipsum rem consectetur officia ratione placeat numquam facere aut.\nSimilique consequuntur iste fuga nostrum numquam laborum. Cupiditate ducimus officiis atque dolor non quam deserunt. Quae quaerat rerum ipsa.",
+        "rating": 3,
+        "date": "18.06.2023",
+        "reviewer": {
+          "name": "Said Poyrazoğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/92894621"
+        }
+      },
+      {
+        "title": "Officia eos voluptas hic dolores.",
+        "body": "Ipsum possimus aut blanditiis animi itaque itaque veritatis voluptatem cum. Est molestias consequuntur ab doloribus quae omnis rem corrupti voluptatem. Vero commodi necessitatibus esse rerum veritatis qui molestias totam beatae.\nAccusantium ea quaerat cumque repellendus porro minus assumenda dolorem maxime. Qui beatae ullam facere explicabo et quae voluptatibus laboriosam. Consequatur tempora deserunt quo itaque hic.",
+        "rating": 5,
+        "date": "18.09.2023",
+        "reviewer": {
+          "name": "Recep Ekşioğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/89689641"
+        }
+      },
+      {
+        "title": "Quia delectus sequi necessitatibus.",
+        "body": "Consectetur adipisci nesciunt porro itaque nemo voluptatum autem nobis. Quo deserunt similique id rerum. Saepe fugiat consectetur culpa vero cupiditate rerum maxime sapiente delectus.\nPraesentium sed vero nulla rerum illum magnam saepe assumenda. Eveniet debitis officia expedita praesentium optio explicabo consequuntur vitae. Quia non reiciendis nulla.",
+        "rating": 1,
+        "date": "23.05.2023",
+        "reviewer": {
+          "name": "Meltem Sinanoğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/99357212"
+        }
+      },
+      {
+        "title": "Sequi facilis aliquid natus nostrum dicta deleniti eligendi.",
+        "body": "Ratione nobis dolor possimus vel vitae mollitia nulla. Voluptatem molestiae sed. Officiis praesentium cupiditate laborum nihil blanditiis corporis.\nSit illo molestiae delectus impedit consequuntur. Deserunt veniam iusto eaque quis beatae assumenda laboriosam. Accusantium sapiente laborum sed accusamus veritatis.",
+        "rating": 1,
+        "date": "02.06.2023",
+        "reviewer": {
+          "name": "Veysel Karadaş",
+          "avatar": "https://avatars.githubusercontent.com/u/62161938"
+        }
+      },
+      {
+        "title": "Molestias fugiat ex molestias ipsam.",
+        "body": "A mollitia ullam. Quasi itaque corporis nesciunt ad labore quo distinctio explicabo reprehenderit. Doloribus ipsam iste blanditiis odit.\nDoloremque odio perspiciatis ea quia quisquam maxime quam quam. Maxime ab saepe dicta saepe. Commodi quos voluptates omnis cupiditate.",
+        "rating": 5,
+        "date": "17.11.2023",
+        "reviewer": {
+          "name": "Veysi Alnıaçık",
+          "avatar": "https://avatars.githubusercontent.com/u/72271202"
+        }
+      },
+      {
+        "title": "Earum aperiam repellat ratione doloremque.",
+        "body": "Labore explicabo in sequi soluta aliquid suscipit. Vero perferendis illum qui beatae. Maxime maxime illo inventore neque aliquam excepturi quam.\nCulpa minima debitis error voluptates numquam. Saepe similique a eaque praesentium fugit. Qui modi ea.",
+        "rating": 2,
+        "date": "19.01.2024",
+        "reviewer": {
+          "name": "Diler Topçuoğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/28130610"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Şehir Meydanı Bistro",
+    "logo": "https://avatars.githubusercontent.com/u/83813344",
+    "address": "Alparslan Türkeş Bulvarı 9",
+    "gps": [
+      37.8379421268227,
+      27.84021884558183
+    ],
+    "closingTime": "11:30",
+    "reviews": [
+      {
+        "title": "Voluptatem eveniet optio dignissimos distinctio velit sequi assumenda ipsum.",
+        "body": "Deserunt cupiditate fugiat. Odit laudantium distinctio sunt quae reiciendis unde autem. Ab earum quibusdam facilis adipisci.\nAmet saepe iste laboriosam mollitia amet. Voluptatum temporibus voluptatibus a consequatur voluptates voluptas saepe. Natus atque harum ea modi distinctio veniam velit.",
+        "rating": 1,
+        "date": "16.06.2023",
+        "reviewer": {
+          "name": "Prof. Dr. Hümayun Küçükler",
+          "avatar": "https://avatars.githubusercontent.com/u/47082805"
+        }
+      },
+      {
+        "title": "Quas neque aut corporis.",
+        "body": "Quis corporis facilis dicta nemo voluptates. Nulla occaecati vel placeat minus consequatur. Voluptatum ullam unde.\nQuae sit corrupti voluptate molestias repellat provident. Maiores ea ad tenetur expedita enim distinctio. Cumque pariatur iste.",
+        "rating": 3,
+        "date": "12.11.2023",
+        "reviewer": {
+          "name": "Jale Karaböcek",
+          "avatar": "https://avatars.githubusercontent.com/u/63135443"
+        }
+      },
+      {
+        "title": "Libero doloremque cupiditate ex.",
+        "body": "Voluptates aut mollitia reprehenderit ex aliquam corporis. Ut inventore illum laborum non veritatis recusandae ea officia commodi. Voluptatibus doloribus iusto ad quam maxime.\nId voluptatem modi repudiandae sequi illo quia. Commodi occaecati quam nam doloribus voluptatum. Provident sit hic eligendi laborum iure error.",
+        "rating": 1,
+        "date": "05.03.2024",
+        "reviewer": {
+          "name": "Çilay Ozansoy",
+          "avatar": "https://avatars.githubusercontent.com/u/87123069"
+        }
+      },
+      {
+        "title": "Ducimus minima tempora assumenda pariatur suscipit hic.",
+        "body": "Repellat cumque delectus reiciendis. Doloremque reiciendis unde sed aut molestiae omnis. Nisi necessitatibus quaerat totam aspernatur.\nMaxime est aperiam rerum doloremque beatae expedita quam maxime. Consequatur culpa rem assumenda eveniet doloribus. Magnam ipsum nihil culpa voluptas doloremque.",
+        "rating": 1,
+        "date": "13.11.2023",
+        "reviewer": {
+          "name": "Şarani Akyüz",
+          "avatar": "https://avatars.githubusercontent.com/u/34335523"
+        }
+      },
+      {
+        "title": "Accusantium mollitia consequatur libero.",
+        "body": "Fuga dicta explicabo commodi eligendi repudiandae. Voluptatibus praesentium maiores voluptatum. Quae reiciendis quam quaerat placeat aliquid mollitia.\nVoluptatem animi possimus modi. Voluptatibus illo illum ullam expedita. Praesentium sunt accusantium culpa veniam.",
+        "rating": 5,
+        "date": "06.02.2024",
+        "reviewer": {
+          "name": "Dr. Naim Arslanoğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/97072451"
+        }
+      },
+      {
+        "title": "Qui atque quae assumenda nesciunt reiciendis omnis odit cum modi.",
+        "body": "Architecto enim facilis eveniet doloribus laudantium quae quisquam cupiditate. Asperiores eveniet delectus. Pariatur provident autem illo repudiandae quod ipsum.\nUnde repellendus qui. Natus atque iure omnis. Iure sed sit dicta ipsa pariatur officiis placeat ullam eligendi.",
+        "rating": 2,
+        "date": "03.12.2023",
+        "reviewer": {
+          "name": "Rüya Tuğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/28770568"
+        }
+      },
+      {
+        "title": "Soluta unde eaque commodi recusandae illum laboriosam a.",
+        "body": "Aliquid corporis alias aut ducimus debitis sunt accusamus laudantium vitae. Vel ad facilis quia eveniet odio. Adipisci cum nisi.\nExpedita deleniti occaecati enim suscipit nemo asperiores amet perferendis fugit. Illo maxime nobis maiores iusto. Maxime perspiciatis unde quas.",
+        "rating": 5,
+        "date": "06.03.2024",
+        "reviewer": {
+          "name": "İlhami Uluhan",
+          "avatar": "https://avatars.githubusercontent.com/u/39458625"
+        }
+      },
+      {
+        "title": "Sed qui reiciendis.",
+        "body": "Vel animi recusandae totam unde quas. Harum magnam deleniti asperiores debitis eius mollitia impedit. Aut porro minima.\nTenetur doloribus fugiat dolorum impedit quibusdam distinctio eos vel. Blanditiis maiores nemo ducimus culpa quis. Quam at a accusantium.",
+        "rating": 5,
+        "date": "09.06.2023",
+        "reviewer": {
+          "name": "Çise Yılmazer",
+          "avatar": "https://avatars.githubusercontent.com/u/74114004"
+        }
+      },
+      {
+        "title": "Ab totam odio.",
+        "body": "Quisquam quia eaque placeat beatae labore. Vitae quas eos earum molestias omnis cupiditate dicta earum voluptate. Unde quisquam quod.\nCupiditate temporibus laudantium aliquam. Atque mollitia quasi cumque rerum quod harum dolorem. Omnis quas sit expedita.",
+        "rating": 5,
+        "date": "08.01.2024",
+        "reviewer": {
+          "name": "Nahil Karaböcek",
+          "avatar": "https://avatars.githubusercontent.com/u/25852399"
+        }
+      },
+      {
+        "title": "Sed itaque beatae consequatur adipisci labore ad dolorem blanditiis.",
+        "body": "Aperiam quae ex occaecati. Ipsam corrupti sit reprehenderit minima corporis ratione aliquam. Illum laudantium culpa exercitationem non nulla quae assumenda quos.\nNam ullam atque odit consequuntur magni beatae minus quo hic. Nobis hic commodi inventore excepturi unde recusandae qui provident. Numquam natus modi nesciunt iste perspiciatis dolor eius suscipit.",
+        "rating": 3,
+        "date": "14.05.2024",
+        "reviewer": {
+          "name": "Kemalettin Özberk",
+          "avatar": "https://avatars.githubusercontent.com/u/60989011"
+        }
+      },
+      {
+        "title": "Aliquid veniam eius.",
+        "body": "Doloribus incidunt repudiandae dicta tempore. Blanditiis vitae dicta quasi a. Explicabo fugiat quaerat quo quos vero.\nAd ipsam libero voluptatum ex. Architecto quidem doloribus. Praesentium perferendis dolorum necessitatibus animi laborum ducimus rerum.",
+        "rating": 2,
+        "date": "19.06.2023",
+        "reviewer": {
+          "name": "Doğaner Akşit",
+          "avatar": "https://avatars.githubusercontent.com/u/185031"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dalyan Balıkçısı",
+    "logo": "https://avatars.githubusercontent.com/u/46117509",
+    "address": "Ülkü Sokak 52",
+    "gps": [
+      37.84149236298182,
+      27.836703218223306
+    ],
+    "closingTime": "11:30",
+    "reviews": [
+      {
+        "title": "Blanditiis amet voluptates delectus officia maiores ab maxime nisi.",
+        "body": "Sit cum quis iusto. Aliquam architecto voluptas provident maiores nobis minima. Hic ipsam mollitia dolorem fugit exercitationem.\nId tempore beatae aut suscipit. Doloremque in corrupti labore vel blanditiis inventore eos. Similique dolore hic dicta voluptatum illum nemo reprehenderit.",
+        "rating": 1,
+        "date": "25.06.2023",
+        "reviewer": {
+          "name": "Ünal Yetkiner",
+          "avatar": "https://avatars.githubusercontent.com/u/18175981"
+        }
+      },
+      {
+        "title": "Doloremque maxime perferendis vero.",
+        "body": "Accusamus cupiditate accusantium dicta reiciendis sequi provident distinctio facilis illo. Animi eum nulla quia modi. Suscipit quaerat eos impedit molestias deleniti.\nAlias minus dolor quia labore repellendus vel culpa cupiditate cupiditate. Amet animi sapiente explicabo nesciunt inventore natus sed temporibus voluptas. Vitae quisquam tenetur assumenda natus neque.",
+        "rating": 4,
+        "date": "04.12.2023",
+        "reviewer": {
+          "name": "Çıgıl Erdoğan",
+          "avatar": "https://avatars.githubusercontent.com/u/36710544"
+        }
+      },
+      {
+        "title": "Officiis aut voluptate rerum magni quasi unde sit.",
+        "body": "Saepe dolorum ratione. Maxime tempora ut explicabo. Earum dignissimos dolorum natus dignissimos fugit dolores illum.\nExcepturi animi explicabo occaecati accusamus assumenda eius. Fugit minima cum exercitationem sapiente. Quas ut natus facere harum pariatur.",
+        "rating": 2,
+        "date": "24.07.2023",
+        "reviewer": {
+          "name": "Bayan Şevval Okur",
+          "avatar": "https://avatars.githubusercontent.com/u/62346400"
+        }
+      },
+      {
+        "title": "Est deserunt quas libero laboriosam temporibus nobis rerum neque.",
+        "body": "Recusandae quasi repudiandae accusantium fugit quam praesentium repellat. Suscipit a eaque expedita exercitationem eum. Numquam rerum quae saepe eveniet deleniti voluptatum.\nMinima officia vitae dignissimos dicta quasi aperiam. Consequatur ipsa soluta corporis incidunt quae nesciunt cumque. Ipsum asperiores facere doloremque.",
+        "rating": 1,
+        "date": "23.10.2023",
+        "reviewer": {
+          "name": "Abendam Doğan ",
+          "avatar": "https://avatars.githubusercontent.com/u/59940036"
+        }
+      },
+      {
+        "title": "Hic tenetur ipsa earum libero hic cumque blanditiis.",
+        "body": "Quia repellat quam officia laudantium. Ex fugiat necessitatibus. Perspiciatis perferendis minus tenetur ipsum nemo atque cumque perferendis.\nOmnis est occaecati quam quasi nemo explicabo. Cum id corrupti. Voluptatum quos omnis consectetur.",
+        "rating": 4,
+        "date": "29.03.2024",
+        "reviewer": {
+          "name": "Şevket Küçükler",
+          "avatar": "https://avatars.githubusercontent.com/u/2735973"
+        }
+      },
+      {
+        "title": "Iure cum distinctio aperiam.",
+        "body": "Dolor officiis dolore laborum nesciunt accusantium. Mollitia sequi officia minima veniam assumenda. Ipsum ea temporibus iusto veniam pariatur fuga perferendis commodi.\nVeniam iure fugit enim. Doloribus fuga dolore eligendi itaque. Nostrum iste reiciendis soluta quidem quam.",
+        "rating": 4,
+        "date": "15.07.2023",
+        "reviewer": {
+          "name": "Şâfi Kunter",
+          "avatar": "https://avatars.githubusercontent.com/u/96160712"
+        }
+      },
+      {
+        "title": "Minima voluptatum dicta ipsa dolor commodi quo distinctio.",
+        "body": "Esse molestias fugiat ea laborum. Nihil a veritatis sapiente quae facilis error velit labore. Magnam ullam voluptatem praesentium dolore accusamus doloribus velit nemo.\nEaque dignissimos dolores ipsum voluptatem odit ullam id. In magni possimus. Suscipit numquam vel ipsam eius odit nesciunt nesciunt eveniet praesentium.",
+        "rating": 3,
+        "date": "27.11.2023",
+        "reviewer": {
+          "name": "Tunay Hakyemez",
+          "avatar": "https://avatars.githubusercontent.com/u/1571655"
+        }
+      },
+      {
+        "title": "Unde neque iure unde laboriosam soluta sequi unde.",
+        "body": "Reprehenderit dolorum hic eum deleniti aliquam veritatis sapiente mollitia facere. Veritatis quos suscipit asperiores. Sequi porro explicabo illo deleniti praesentium vero quasi ducimus vero.\nConsequatur non earum est culpa corrupti esse. Aut consequuntur in in id ex alias praesentium modi fugiat. Inventore placeat dolore ipsa at architecto hic at corrupti.",
+        "rating": 1,
+        "date": "06.11.2023",
+        "reviewer": {
+          "name": "Gonca Saygıner",
+          "avatar": "https://avatars.githubusercontent.com/u/68061801"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dağ Evi Kahvaltı ve Yemek",
+    "logo": "https://avatars.githubusercontent.com/u/36375835",
+    "address": "Menekşe Sokak 69a",
+    "gps": [
+      37.84160379982977,
+      27.83689229110348
+    ],
+    "closingTime": "11:30",
+    "reviews": [
+      {
+        "title": "Nulla velit quaerat tempore recusandae incidunt amet rerum.",
+        "body": "Voluptatem esse ea ipsum veritatis reiciendis. Sunt minus minus sint totam vero assumenda saepe nam. Eaque sed provident rerum ullam repellendus et quibusdam et.\nSint reprehenderit illo sed voluptatem expedita aperiam veritatis. Quaerat aut facere a deleniti. Porro ipsum nam libero fuga consequuntur.",
+        "rating": 2,
+        "date": "03.08.2023",
+        "reviewer": {
+          "name": "Dr. Nabi Okur",
+          "avatar": "https://avatars.githubusercontent.com/u/36375835"
+        }
+      },
+      {
+        "title": "Adipisci corporis quod numquam dolor.",
+        "body": "Laborum beatae quo eaque veritatis placeat. Fugit suscipit amet totam nihil possimus totam modi sapiente. Quos quidem dolorem inventore unde alias.\nFugiat tempora doloribus veniam. Repellat explicabo asperiores magni. Molestiae voluptates officia iure tenetur facilis voluptatem.",
+        "rating": 1,
+        "date": "01.10.2023",
+        "reviewer": {
+          "name": "Peyami Çağıran",
+          "avatar": "https://avatars.githubusercontent.com/u/42408732"
+        }
+      },
+      {
+        "title": "Amet eveniet perferendis deserunt delectus eum porro voluptatem repudiandae.",
+        "body": "Sint omnis ex quibusdam cupiditate laudantium. Quasi totam perspiciatis nulla blanditiis cupiditate. Odio commodi amet.\nVoluptatem vitae quos hic cupiditate. Omnis inventore fuga cumque. Qui aliquam architecto explicabo.",
+        "rating": 4,
+        "date": "11.06.2023",
+        "reviewer": {
+          "name": "Enderun Özdenak",
+          "avatar": "https://avatars.githubusercontent.com/u/86941629"
+        }
+      },
+      {
+        "title": "Vel laborum mollitia minus maiores.",
+        "body": "Autem perspiciatis quia optio non commodi deserunt culpa sint. Alias nobis quidem minus possimus a est. Occaecati similique quidem asperiores itaque natus explicabo.\nMolestias earum voluptatibus dolorum. Delectus nulla magnam magnam blanditiis nisi enim officia. Ducimus expedita est consectetur numquam explicabo eveniet.",
+        "rating": 1,
+        "date": "14.01.2024",
+        "reviewer": {
+          "name": "İlkben Topaloğlu",
+          "avatar": "https://avatars.githubusercontent.com/u/16190395"
+        }
+      },
+      {
+        "title": "Maxime magni labore perferendis suscipit.",
+        "body": "Nemo adipisci porro incidunt ratione illum praesentium blanditiis iusto quas. Sit corrupti saepe aut rem suscipit sapiente. Iste repudiandae sequi tempora voluptate fugiat suscipit fugiat et.\nPraesentium numquam quasi harum quos repudiandae dolorum eos doloremque ea. Repudiandae voluptates blanditiis expedita a magnam quam nemo veritatis cumque. Qui hic molestias sint maxime fuga.",
+        "rating": 3,
+        "date": "04.07.2023",
+        "reviewer": {
+          "name": "Yalçın Karaduman",
+          "avatar": "https://avatars.githubusercontent.com/u/32081825"
+        }
+      },
+      {
+        "title": "Perferendis id voluptates eius iste aliquam autem.",
+        "body": "Dolore nam non asperiores quaerat. Reprehenderit veniam placeat doloribus autem pariatur officia. Eveniet facere iure earum assumenda minus.\nAt itaque autem dignissimos ratione ullam modi nihil magni amet. Minima exercitationem occaecati in facere alias. Consectetur facilis eligendi porro illum.",
+        "rating": 5,
+        "date": "02.02.2024",
+        "reviewer": {
+          "name": "Doğanay Özbey",
+          "avatar": "https://avatars.githubusercontent.com/u/90276248"
+        }
+      },
+      {
+        "title": "Occaecati corporis pariatur quas exercitationem beatae.",
+        "body": "Quidem numquam illum eius architecto autem corrupti architecto totam deserunt. Reprehenderit tenetur nisi blanditiis eaque. Ducimus doloribus dolore a facere unde.\nAlias labore ut. Saepe ad cum pariatur error minus qui dolorem hic suscipit. Officiis voluptatum magni illum beatae commodi.",
+        "rating": 5,
+        "date": "06.09.2023",
+        "reviewer": {
+          "name": "Nevra Kahveci",
+          "avatar": "https://avatars.githubusercontent.com/u/11249047"
+        }
+      }
+    ]
+  }
+]

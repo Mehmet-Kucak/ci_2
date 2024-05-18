@@ -42,22 +42,8 @@ const getProducts = async (req, res) => {
       });
     });
 
-    const scrapedData = [];
-    for (const href of data) {
-      try {
-        await page.goto(href);
-        const imageSrcs = await page.evaluate(() => {
-          const images = Array.from(document.querySelectorAll('img'));
-          return images.map(img => img.src);
-        });
-        scrapedData.push(imageSrcs);
-      } catch (error) {
-        console.error(`Error scraping ${href}:`, error);
-      }
-    }
-
     await browser.close();
-
+    
     res.status(200).json({ data });
   } catch (error) {
     console.error(error);
