@@ -2,10 +2,10 @@ const puppeteer = require('puppeteer');
 
 const getProducts = async (req, res) => {
   try {
-    const browser = await puppeteer.launch({ headless: true });
+    const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
-    const inputValue = req.query.input;
+    const inputValue = await req.query.input;
 
     // Block unnecessary resources
     await page.setRequestInterception(true);
@@ -46,7 +46,7 @@ const getProducts = async (req, res) => {
     
     res.status(200).json({ data });
   } catch (error) {
-    console.error(error);
+    console.error(error.message);
     res.status(500).json({ error: 'An error occurred while scraping the website.' });
   }
 };

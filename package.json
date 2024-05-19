@@ -18,6 +18,7 @@
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@mapbox/mapbox-gl-directions": "^4.3.1",
     "@types/mapbox-gl": "^3.1.0",
     "@types/node": "^20",
     "@types/react": "^18",

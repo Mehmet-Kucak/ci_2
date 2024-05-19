@@ -25,13 +25,16 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Mapbox with Next.js</title>
+        <title>Navigation</title>
         <link
           href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css"
           rel="stylesheet"
         />
       </Head>
-      <Map center={center} zoom={12} />
+      <Map
+        start={currentLocation}
+        end={center}
+      />
     </div>
   );
 }
